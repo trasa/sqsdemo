@@ -8,4 +8,10 @@
 .cache-tests
 target/
 dependency-reduced-pom.xml
+out/
+node_modules/
 *.swp
+sql/liveops.bak*
+sql/kochava.bak*
+sql/liveops_amplitude.*
+dd_classic_4k/
